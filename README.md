@@ -44,15 +44,6 @@ These playlists bundle sketches that vibe together. Follow them like a course sy
 ### Audio, texture, and atmospheric studies
 `bitCrush_sketch1`, `fb18`, `panHEIZEN`, `scape`, `scape_`, `thesisLight`, `resetAfter___`, and the `nsProject` suite fold in sound synthesis, particle textures, and lighting research. Many rely on the `sound/` or `data/` folders for assets.
 
-### Export-heavy “mIP” builds
-`mIP`, `mIP2`, `mIP3`, `mIP4`, `mIP5_final_`, and `mIP6` are milestone projects with exported applications, image sequences, and web bundles. Use them to show students how Processing sketches evolve into deployable artifacts.
-
-## Learning pathways
-- **Week 1 – Warm-up:** pick a diary sketch, read through the code, and duplicate a behavior by changing constants.
-- **Week 2 – Sense the body:** jump into `Sp/kinect.pde` to learn the Kinect pipeline, then iterate with `backgroundSubOK`.
-- **Week 3 – Communicate:** wire up `image_streaming` or `October2/midiCV4_serial.pde` to talk across machines or devices.
-- **Week 4 – Design a system:** remix `Level0` or `MiM_2` into your own interactive installation.
-
 ## Documented deep dives
 - [`docs/README.md`](docs/README.md) – atlas of every folder, listing primary files and teaching cues.
 - [`Level0/README.md`](Level0/README.md) – how the electric-field level editor is wired.
