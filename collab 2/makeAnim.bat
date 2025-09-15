@@ -1,0 +1,1 @@
+gm convert -delay 6 -loop 0 frames\f*.png anim.gif
